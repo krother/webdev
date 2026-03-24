@@ -1,7 +1,19 @@
+
 [project]
 name = "webdev"
 version = "0.1.0"
-description = "Add your description here"
+authors = [
+    {name = "Kristian Rother", email = "kristian.rother@posteo.de"},
+]
+description = "REST API tutorial with FastAPI and Pydantic"
 readme = "README.md"
-requires-python = ">=3.13"
-dependencies = []
+classifiers = ["License :: OSI Approved :: Creative Commons CC-BY-SA 4.0"]
+requires-python = ">=3.12"
+dependencies = [
+    "furo>=2024.8.6",
+    "myst-parser>=4.0.1",
+    "sphinx>=8.2.3",
+    "sphinx-copybutton>=0.5.2",
+    "sphinx-design>=0.6.1",
+    "sphinxcontrib-mermaid>=2.0.0",
+]

@@ -1,4 +1,7 @@
 
+The Graduation Project
+======================
+
 Create a business webpage for a company, service or product of your choice. It can be a real page (e.g. your skill portfolio or a service you are offering), or a fantasy company.
 
 Assessment criteria (max. 15 points):
@@ -14,5 +17,6 @@ Assessment criteria (max. 15 points):
 - [ ] the page is accessible for people with disabilities (hierarchical headings; alt tags and aria tags)
 - [ ] the page is deployed to a live site (e.g. GitHub pages or Netlify)
 - [ ] the page contains an imprint
-- [ ] creative work (handcrafted or well-chosen images) - up to 3 points
-- [ ] technical excellence (extra JS gadgets or a Python/Django service) - up to 3 points
+- [ ] creative work (handcrafted or well-chosen images) - up to 2 points
+- [ ] technical excellence (extra JS gadgets or a Python/Django service) - up to 2 points
+- [ ] the project is presented - up to 2 points
