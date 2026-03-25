@@ -10,7 +10,9 @@ In this course you will build a website, including HTML
    :maxdepth: 1
 
    chapters/01-html.md
+   chapterS/image_formats.md
    project.md
+   links.md
 
 Coming Soon
 -----------
