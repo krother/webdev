@@ -1,0 +1,23 @@
+* {
+	background-color: aqua;
+}
+
+.container {
+	background-color: goldenrod;
+	padding: 20px;
+	display: flex;
+	/* defaul of flex is organise in row */
+	/* flex-direction: row; */
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 1000px;
+}
+
+.item {
+	background-color: darkgreen;
+	padding: 20px;
+	margin: 20px;
+	color: whitesmoke;
+	font-size: 40px;
+}

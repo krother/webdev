@@ -5,21 +5,26 @@
     <title>Sakura Boat Rentals</title>
     <meta charset="utf-8">
     <meta name="description" content="a boat rental website for the cherry blossom lake">
-    <link rel="stylesheet" href="styles.css" type="text/css">
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <script src="carousel.js" defer></script>
 </head>
 
 <body>
 
     <header>
-        <h1>Sakura Boat Rental</h1>
-        <img src="sakura_boats.png" width="600px" alt="rowing boat on the cherry blossom lake" />
+        <section class="carousel">
+            <h1>Sakura Boat Rental</h1>
+            <img id="carouselImage" src="sakura_boats.png" width="600px" alt="rowing boat on the cherry blossom lake" />
+            <!-- Dots to show which picture you're on -->
+            <div class="dots" id="dotsContainer"></div>
+        </section>
         <p>The cherry blossom lake is inviting you to a trip. Explore the place and dream away.</p>
 
         <nav>
             <ul>
-                <li><a href="#about">About us</a></li>
-                <li><a href="#boats">Boats and Pricing</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li class="green yellow"><a href="#about">About us</a></li>
+                <li class="yellow green"><a href="#boats">Boats and Pricing</a></li>
+                <li class="green yellow"><a href="#contact">Contact</a></li>
             </ul>
         </nav>
     </header>

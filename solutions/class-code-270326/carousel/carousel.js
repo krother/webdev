@@ -3,7 +3,7 @@ console.log('hello from the carousel script');
 // STEP 1: List of all your pictures
 const images = [
 	'panda_kayak.png',
-	'sakura_boat.png',
+	'sakura_boats.png',
 	'rafting.png',
 	'relaxing_heron.png',
 	'stereotypically_biased_frogs.png',
@@ -15,11 +15,12 @@ let currentIndex = 0; // Start at the first picture (0 = first)
 // STEP 3: Find the elements on the page we need to change
 const imageElement = document.getElementById('carouselImage');
 const dotsContainer = document.getElementById('dotsContainer');
+console.log('imageElement', imageElement);
 
 // STEP 4: Function to show a picture
 function showImage(index) {
 	// Change the image source to show the new picture
-	imagesElement.src = images[index];
+	imageElement.src = images[index];
 
 	// Update the dots to show which picture is active
 	updateDots(index);
@@ -30,7 +31,7 @@ function nextImage() {
 	currentIndex = currentIndex + 1; // Move forward one picture
 
 	// If we're past the last picture, go back to the first
-	if (currentIndex > images.length) {
+	if (currentIndex >= images.length) {
 		currentIndex = 0;
 	}
 

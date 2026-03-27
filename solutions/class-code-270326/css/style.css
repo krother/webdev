@@ -1,0 +1,33 @@
+/* rules of specificity */
+/*  * > tag > class > id > important! */
+
+* {
+	color: hotpink;
+}
+
+body {
+	background-color: #ffcccc;
+}
+
+th {
+	color: darkred;
+}
+
+li {
+	border: 2px solid blue;
+}
+
+li.yellow {
+	border: 2px dashed yellow;
+	margin: 35px;
+	padding: 15px;
+	background-color: blueviolet;
+}
+
+.green {
+	border: 2px solid green;
+}
+
+#about {
+	margin: auto 60px;
+}
