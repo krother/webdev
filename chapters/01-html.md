@@ -300,12 +300,11 @@ You can check your HTML file for syntactic correctness using a **linter**, for e
 You find a list of available tags with explanations on [www.w3schools.com/html/](https://www.w3schools.com/html/)
 
 
-## Review Questions
+## Recap Questions
 
-#### What ways do you know to check how HTML is rendered on your output device?
+#### How can you check how HTML is rendered on your output device?
 
 Option 1 is to use different web browsers on different devices. Option 2 is to use the developer tools built into modern browsers, where you can switch the display between desktop and tablet/smartphone views.
-### Review Questions
 
 #### How do HTML and programming languages differ from each other?
 
