@@ -13,7 +13,7 @@ In this course you will build a website, including HTML
    chapters/02-css.md
    chapters/03-js.md
    chapters/image_formats.md
-   chapters/exercise1.md
+   chapters/exercises1.md
    chapters/bootstrap.md
    chapters/django.md
    project.md
