@@ -10,18 +10,16 @@ In this course you will build a website, including HTML
    :maxdepth: 1
 
    chapters/01-html.md
-   chapterS/image_formats.md
+   chapters/image_formats.md
+   chapters/exercise1.md
+   chapters/bootstrap.md
+   chapters/django.md
    project.md
    links.md
 
 Coming Soon
 -----------
 
-- Cascading Style Sheets (CSS)
-- the Django Web server
-- building REST API
-- Version Control
-- Deployment
 - Web Forms
 - Best Practices
 

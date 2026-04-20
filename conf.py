@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Web Dev'
-copyright = '2026, Kristian Rother, Merle Fischer, Burak Kagan Yilmazer, Frank Hoffmann'
+copyright = '2026 Kristian Rother, Merle Fischer, Burak Kagan Yilmazer, Frank Hoffmann'
 author = 'Kristian Rother, Merle Fischer, Burak Kagan Yilmazer, Frank Hoffmann'
 release = '1.0'
 html_title = f"{project}"

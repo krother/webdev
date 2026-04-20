@@ -302,70 +302,67 @@ You find a list of available tags with explanations on [www.w3schools.com/html/]
 
 ## Review Questions
 
-**4. What ways do you know to check how HTML is rendered on your output device?**
+#### What ways do you know to check how HTML is rendered on your output device?
 
 Option 1 is to use different web browsers on different devices. Option 2 is to use the developer tools built into modern browsers, where you can switch the display between desktop and tablet/smartphone views.
 ### Review Questions
 
-**1. How do HTML and programming languages differ from each other?**
+#### How do HTML and programming languages differ from each other?
 
 HTML is a markup language. HTML tags are read, interpreted, and rendered by the web browser. Programming languages involve a translation process into processor instructions (CPU instructions).
 
-**2. What is an HTML attribute and how is it written?**
+#### What is an HTML attribute and how is it written?
 
 An HTML attribute follows the form `name="value"` and is separated from the HTML tag by a space. A value is optional.
 
-**3. Why is an HTML file divided into head and body?**
+#### Why is an HTML file divided into head and body?
 
 The HTML head contains metadata about the document. The body contains the actual content of the HTML file.
 
-**1. What is the purpose of the description in an HTML file?**
+#### What is the purpose of the description in an HTML file?
 
 The browser displays this information in its preview, making it easier to identify the page.
 
-**2. How does the browser display an HTML file if the character set is not specified in the header?**
+#### How does the browser display an HTML file if the character set is not specified in the header?
 
 The browser guesses the character set, falling back on values from the current environment if available.
 
-**1. Which HTML tags for logical page structure do you know?**
+#### Which HTML tags for logical page structure do you know?
 
 These include `<HEADER>`, `<FOOTER>`, `<NAV>`, `<MAIN>`, `<SECTION>` and `<H1>` through `<H6>`.
 
-**1. Where is a consistent website design useful?**
+#### Where is a consistent website design useful?
 
 Visitors can orient themselves more easily and find what they are looking for faster.
 
-**2. A user wants to place the navigation at the bottom of the page. Do you agree?**
+#### A user wants to place the navigation at the bottom of the page. Do you agree?
 
 No. Navigation is easier to use when placed at the top of the page. That content loads first and is immediately visible.
 
-**3. Under what label do you place the responsible person for a website?**
+#### Under what label do you place the responsible person for a website?
 
 Typically this goes under an imprint page (legal notice) and a contact form.
 
-**1. What is the difference in display between `<TH>` and `<TD>`?**
+#### What is the difference in display between `<TH>` and `<TD>`?
 
 `<TH>` (table header) renders content centred and in bold; `<TD>` renders without any default formatting.
 
-**2. When is it useful to display data in a table?**
+#### When is it useful to display data in a table?
 
 A table is appropriate when there are more than two records. Otherwise a simple list in the text may suffice.
 
-**3. What types of lists do you know?**
+#### What types of lists exist?
 
 HTML supports unordered lists (`<UL>`), ordered lists (`<OL>`), and description lists (`<DL>`).
 
-
-**1. What happens if the referenced image cannot be loaded?**
+#### What happens if the referenced image cannot be loaded?
 
 Depending on the browser, a small broken image icon appears to indicate the problem.
 
-**2. How should the `alt` attribute description be written to be accessible?**
+#### How should the `alt` attribute description be written to be accessible?
 
 The description should clearly convey what is shown in the image.
 
-**3. Which tools read the `alt` attribute description?**
+#### Which tools read the `alt` attribute description?
 
 Screen readers, text-based browsers, and search engines all use it.
-
-**enumerate all HTML tags you have used so far.**
