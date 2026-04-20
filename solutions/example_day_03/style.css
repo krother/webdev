@@ -1,10 +1,26 @@
 body {
-    background-color: slateblue;
     color: white;
+}
+header {
+    background-color: slateblue;
+    width: 100%;
+    padding: 50px;
+}
+footer {
+    background-color: slateblue;
+    width: 100%;
+    padding: 50px;
 }
 .main {
     color: lightgrey;
 }
 #subheading1 {
-    margin: 50px;
+    padding: 50px;
+}
+
+.container {
+	display: flex;
+    flex-direction: column;
+	justify-content: center;
+	align-items: center;
 }
