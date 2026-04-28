@@ -1,0 +1,21 @@
+
+img {
+    /*margin: 30px; */
+}
+main {
+    background-color: #ffcae9;
+}
+header, footer {
+    background-color: #5cf64a; 
+    /* #ff37a6; */
+}
+/*
+.main_container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.item {
+    width: 100%;
+}
+    */
