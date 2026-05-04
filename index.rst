@@ -16,6 +16,8 @@ In this course you will build a website, including HTML
    chapters/exercises1.md
    chapters/bootstrap.md
    chapters/django.md
+   chapters/bootstrap.md
+   chapters/api.md
    project.md
    links.md
 
@@ -36,4 +38,4 @@ Coming Soon
    See `creativecommons.org <https://creativecommons.org/licenses/by-sa/4.0/>`__ for details
 
    Sources of this document can be found on
-   https://github.com/krother/webdev
+   [https://github.com/krother/webdev](https://github.com/krother/webdev)
