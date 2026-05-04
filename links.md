@@ -9,3 +9,4 @@
 - [git Tutorial by cusy](https://www.python4data.science/en/latest/productive/git/index.html)
 - [Mermaid Live Diagram editor](https://mermaid.live/)
 - [Color Palette Generator](https://coolors.co/)
+- [W3 Website Validators](https://www.w3.org/developers/tools/)
