@@ -18,6 +18,7 @@ In this course you will build a website, including HTML
    chapters/django.md
    chapters/bootstrap.md
    chapters/api.md
+   chapters/dashboard.md
    project.md
    links.md
 
