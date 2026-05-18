@@ -19,6 +19,7 @@ In this course you will build a website, including HTML
    chapters/bootstrap.md
    chapters/api.md
    chapters/dashboard.md
+   chapters/security.md
    project.md
    links.md
 
