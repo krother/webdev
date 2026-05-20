@@ -10,3 +10,5 @@
 - [Mermaid Live Diagram editor](https://mermaid.live/)
 - [Color Palette Generator](https://coolors.co/)
 - [W3 Website Validators](https://www.w3.org/developers/tools/)
+- [Tamaras Accessibility Workshop](https://tamarabadikyan.github.io/accessibility-workshop-handout-2026-05/)
+
