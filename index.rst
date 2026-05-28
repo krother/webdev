@@ -22,6 +22,7 @@ In this course you will build a website, including HTML
    chapters/security.md
    project.md
    links.md
+   hall_of_fame.md
 
 Coming Soon
 -----------
