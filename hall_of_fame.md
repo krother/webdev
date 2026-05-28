@@ -12,7 +12,7 @@ Here are some of the projects completed by students in 2026:
 - [AI Stylist](https://my-first-blog-hbozx2zuij2mhfbvrffwbc.streamlit.app/?embed=true) - by Ruhan
 - [Padel Charlottenburg](https://albanfargt.github.io/padel-rental/) - by Alban and Mateo
 - [Prax IS](https://fascinating-maamoul-00ebc3.netlify.app/) - by Charlène
-- [Celestia](https://yici77.pythonanywhere.com/) - by Yi-Cian and Yu Jou
+- [Celestia](https://yici77.pythonanywhere.com/) - by Yi-Cian, Yu Jou and Yu Lo
 - [Paris Destiny Agency](https://paris-fortune-teller.streamlit.app/) - by Chen-Jo and Darshan
 - [Commercial Intelligence Platform](https://shilba98.github.io/Web-D-demo/) - by Shilba
 - [Color my Dreams](https://sayasharif.pythonanywhere.com/) - by Sayyora
