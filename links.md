@@ -12,3 +12,7 @@
 - [W3 Website Validators](https://www.w3.org/developers/tools/)
 - [Tamaras Accessibility Workshop](https://tamarabadikyan.github.io/accessibility-workshop-handout-2026-05/)
 
+## Royalty-free images
+
+- [www.unsplash.com](https://unsplash.com)
+- [www.pexels.com](https://www.pexels.com)

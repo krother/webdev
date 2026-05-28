@@ -1,4 +1,4 @@
-# Hall of Fame:
+# Hall of Fame
 
 Here are some of the projects completed by students in 2026:
 
