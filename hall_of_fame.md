@@ -4,6 +4,7 @@ Here are some of the projects completed by students in 2026:
 
 - [Masters Only](https://yuqian.pythonanywhere.com/) - by Yuqian
 - [Ashus Portfolio](https://ashux.netlify.app/) - by Ashu
+- [Ver·O, a course review portal](https://mingyuans.pythonanywhere.com/) - by Mingyuan and Mengxue
 - [Workforce AI](https://greeshmagara-tech.github.io/Workforce_ai/) - by Diya and Greeshma
 - [Mr. Bee's World](https://liann.pythonanywhere.com/) - by Li Ann
 - [Anne Frank Story Archive](https://yikee451.github.io/anne_diary_web/) - by Xinyue
